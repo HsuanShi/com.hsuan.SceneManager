@@ -1,8 +1,8 @@
 {
-  "name": "com.hsuan.SceneManager",
+  "name": "com.hsuan.scenemanager",
   "version": "1.0.0",
-  "displayName": "Hsuan 工具包;場景管理器",
-  "description": "提供切換場景與退出場景功能",
+  "displayName": "Hsuan tools kit scene manager",
+  "description": "Switch scene and exit",
   "unity": "2022.3",
 
   "author": {
